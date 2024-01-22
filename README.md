@@ -1,6 +1,8 @@
 ### Hi there,I'm Mouad Elattar 👋
 - 🖥️ I love coding using javascript{Reactjs}.
 - 🌱 I’m currently learning (Spring boot,Go,Angular)...
+- 🔭 I’m currently looking for a job
+  
 <!--
 **MOUAD-EL01/MOUAD-EL01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
